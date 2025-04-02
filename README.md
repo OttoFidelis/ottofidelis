@@ -1,7 +1,7 @@
 <h1 align="left">Otto Fidelis</h1>
 
 ###
-*Desenvolvedor Java*
+*´Desenvolvedor backend´*
 
 ###
 <h2 align="left">Sobre mim</h2>
