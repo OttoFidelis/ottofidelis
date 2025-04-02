@@ -1,6 +1,5 @@
 <h1 align="left">Otto Fidelis</h1>
 
-###
 *`Desenvolvedor backend`*
 
 ###
