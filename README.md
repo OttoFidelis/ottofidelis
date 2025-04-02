@@ -59,7 +59,7 @@
 </div>
 
 ###
-
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/ottofidelis/ottofidelis/output/snake.svg" alt="Snake animation" />
 
