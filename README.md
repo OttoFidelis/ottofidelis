@@ -1,4 +1,5 @@
-<h1 align="left">Otto Fidelis <br> *`Desenvolvedor backend`*</h1>
+<h1 align="left">Otto Fidelis</h1> <br>
+*`Desenvolvedor backend`*
 
 
 
