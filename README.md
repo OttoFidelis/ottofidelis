@@ -1,12 +1,11 @@
-<h1 align="left">Otto Fidelis<br></h1><br>
-<p><code>Desenvolvedor backend</code></p>
-
-
-
-
-
+<h1 align="left">Otto Fidelis<br></h1>
 
 ###
+
+<code>Desenvolvedor backend</code>
+
+###
+
 <h2 align="left">Sobre mim:</h2>
 
 ###
