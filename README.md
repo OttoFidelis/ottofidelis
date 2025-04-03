@@ -1,8 +1,8 @@
-<h1 align="left">Otto Fidelis</h1>
+<h1 align="left">Otto Fidelis <br> *`Desenvolvedor backend`*</h1>
 
 
 
-*`Desenvolvedor backend`*
+
 
 ###
 <h2 align="left">Sobre mim:</h2>
