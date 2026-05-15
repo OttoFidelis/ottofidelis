@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left"> Programando desde 2022<br>📚 Sou Técnico em Informática na FIEB e estou cursando Análise e Desenvolvimento de Sistemas na FATEC Carapicuíba..</p>
+<p align="left"> Programando desde 2022<br>📚 Sou Técnico em Informática na FIEB e estou cursando Análise e Desenvolvimento de Sistemas na FATEC Carapicuíba.</p>
 
 ###
 
