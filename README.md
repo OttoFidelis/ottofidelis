@@ -2,7 +2,7 @@
 
 ###
 
-<code>Desenvolvedor backend</code>
+<code>Desenvolvedor backend</code> <code>Suporte Técnico em TI</code>
 
 ###
 
